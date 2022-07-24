@@ -50,6 +50,10 @@
   text-decoration: none;
 }
 
+.header__link:hover {
+  text-shadow: 0 0 10px #2f80ed;
+}
+
 .header__main-illustration {
   width: 765px;
   height: 608px;
@@ -257,6 +261,10 @@
   font-weight: normal;
 }
 
+.feynman__link:hover {
+  text-shadow: 0 0 10px #2f80ed;
+}
+
 /* kaufman */
 .kaufman {
   background-color: #1f1f1f;
@@ -347,6 +355,11 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+}
+
+.footer__column-link:hover {
+  background-color: #fff;
+  color: #1f1f1f;
 }
 
 .footer__social-icon {
