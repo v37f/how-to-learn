@@ -168,7 +168,6 @@
   z-index: 1;
 }
 
-
 /* table */
 .table {
   width: 1100px;
@@ -284,7 +283,6 @@
   background-size: contain;
 }
 
-
 /* footer */
 .footer {
   min-height: 350px;
@@ -361,5 +359,3 @@
   margin-right: 10px;
   align-self: center;
 }
-
-
