@@ -1,0 +1,11 @@
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  display: flex;
+  position: relative;
+  /* relative установленовлено чтобы дочерние элементы позиционировались относительно блока header */
+  overflow: hidden;
+  /* Для того чтобы при уменьшении высоты окна браузера header__square-pic не выходил за пределы header */
+}

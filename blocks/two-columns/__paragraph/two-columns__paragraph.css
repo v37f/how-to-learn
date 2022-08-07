@@ -1,0 +1,10 @@
+.two-columns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin:0 0 30px 0;  /* Задаем отступ 30px между элементами paragraph */
+}
+
+.two-columns__paragraph:last-child {
+  margin-bottom: 0;  /* Убираем отступ у последенего элемента paragraph, что бы он не сдвигал последующие блоки */
+}
