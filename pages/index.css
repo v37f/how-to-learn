@@ -70,14 +70,22 @@
 @import url('../blocks/footer/__social-icon/footer__social-icon.css');
 
 /* блок rotation */
-@import url(../blocks/rotation/rotation.css);
+@import url('../blocks/rotation/rotation.css');
 
 /* блок techniques */
-@import url(../blocks/techniques/techniques.css);
+@import url('../blocks/techniques/techniques.css');
 
 /* блок cards */
-@import url(../blocks/cards/cards.css);
-@import url(../blocks/cards/__description/cards__description.css);
-@import url(../blocks/cards/__image/cards__image.css);
-@import url(../blocks/cards/__item/cards__item.css);
-@import url(../blocks/cards/__title/cards__title.css);
+@import url('../blocks/cards/cards.css');
+@import url('../blocks/cards/__description/cards__description.css');
+@import url('../blocks/cards/__image/cards__image.css');
+@import url('../blocks/cards/__item/cards__item.css');
+@import url('../blocks/cards/__title/cards__title.css');
+
+/* блок video */
+@import url('../blocks/video/video.css');
+@import url('../blocks/video/__iframe/video__iframe.css');
+@import url('../blocks/video/__iframes/video__iframes.css');
+
+/* блок oakley */
+@import url(../blocks/oakley/oakley.css);
