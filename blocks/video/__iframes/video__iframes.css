@@ -3,6 +3,4 @@
   justify-content: center;
   gap: 20px;
   transform: translateY(50px);  /* смещаем блок вниз на 50px */
-  position: relative;  /* для применения z-index */
-  z-index: 2; /* чтобы блок отображался поверх следующей секции */
 }
