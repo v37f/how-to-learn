@@ -11,3 +11,6 @@ ___
 * простейшие анимации(transform, transition)
 
 Файловая структура проекта реализована в соотвествии с БЭМ(Nested).
+
+## Cсылка
+[Проект на gh-pages](https://v37f.github.io/how-to-learn/)
